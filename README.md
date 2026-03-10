@@ -3,7 +3,7 @@
 # Hi there! I'm Sajan Lal 👋
 ### DevOps Engineer | Cybersecurity Analyst | Network Specialist
 
-![Profile Banner](./github_banner_v2_1773134007871.png)
+![Profile Banner](./github_profile_banner_v2_1773134007871.png)
 
 *Bridging the gap between robust Networking, Fortified Security, and Automated DevOps.*
 
