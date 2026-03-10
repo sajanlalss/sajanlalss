@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! I'm Sajan Lal 👋
+# Hi there! I'm SajanLal S 👋
 ### DevOps Engineer | Cybersecurity Analyst | Network Specialist
 
 ![Profile Banner](./github_profile_banner_v2_1773134007871.png)
