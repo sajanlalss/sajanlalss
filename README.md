@@ -7,7 +7,7 @@
 
 *Bridging the gap between robust Networking, Fortified Security, and Automated DevOps.*
 
-[Portfolio](https://github.com/sajanlalss) | [LinkedIn](https://linkedin.com/in/sanjanlal) | [Email](mailto:sanjanlal@example.com)
+[Portfolio](https://sajanlalss.github.io/sajanlals-pf/) | [LinkedIn](https://linkedin.com/in/sanjanlal) | [Email](mailto:sanjanlal@example.com)
 
 ---
 
