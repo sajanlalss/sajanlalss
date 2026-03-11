@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! I'm SajanLal S 👋
+# 👋
 ### DevOps  | Cybersecurity  | Networking 
 
 ![Profile Banner](./github_profile_banner_v2_1773134007871.png.png)
